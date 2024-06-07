@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Test
+
+  Created by Adrian Pandelea on 05.06.2024.
+  
+*/
+"Target Specifics" = "Target Specifics";
+"Ok" = "Ok";
+"Error" = "Error";
+"No specifics selected" = "No specifics selected";
+"No campaigns seelected"    = "No campaigns seelected";
+"Review"  = "Review";
+"Send Email"  = "Send Email";
+"Campaigns"  = "Campaigns";
+"Add Campaign" = "Add Campaign";
+"Channels" = "Channels";
+"Target Specifics" = "Target Specifics";
+"Next"  = "Next";
+"Please configure your email account" = "Please configure your email account";
+"Send" = "Send";
+"Please enter the recipient's email address" = "Please enter the recipient's email address";
